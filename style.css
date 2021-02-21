@@ -150,3 +150,30 @@ header {
 }
 
 /* about me ends */
+
+/* tutorials section start */
+
+.section-title h3 {
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.hr-style {
+    border: 5px dotted rgb(253, 253, 253);
+    border-bottom: none;
+    width: 50px;
+}
+
+#tutorials {
+    padding: 5% 10%;
+    background: black;
+    color: white;
+    text-align: justify;
+}
+
+#tutorials h4 {
+    color: black;
+    font-weight: bold;
+}
+
+/* tutorials section ends */
